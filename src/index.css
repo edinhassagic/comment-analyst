@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.video-player {
+  bottom: 200px;
+  left: 100px;
+  margin-right: 200px;
+}
+
+.search-video {
+  margin-right: 40px;
+  margin-top: -255px;
+  float: right;
+}
+
+.video-list {
+  margin-left: 40px;
+  max-width: 200px;
+  margin-bottom: 270px;
+}
+.title-desc {
+  top: 500px;
+  right: 0px;
+  margin-bottom: 300;
+  margin-top: -150px;
+}
